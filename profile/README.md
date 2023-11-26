@@ -11,7 +11,7 @@
 - [Learnastu.com](https://learnastu.com): Interactive course creation platform. 
 
 ## 📢 We're hiring 
-- We are currently in the process of hiring new team members.
+- We currently have positions filled for CEO and CTO, and we are now seeking talented individuals to join our team.
 
 ## 🤙Contact Us
 - Send an email to hello@learnastu.com.
